@@ -1,0 +1,14 @@
+E:\Phase3\Classes\Day-9\SimpleConApp\bin\Debug\net7.0\SimpleConApp.exe
+E:\Phase3\Classes\Day-9\SimpleConApp\bin\Debug\net7.0\SimpleConApp.deps.json
+E:\Phase3\Classes\Day-9\SimpleConApp\bin\Debug\net7.0\SimpleConApp.runtimeconfig.json
+E:\Phase3\Classes\Day-9\SimpleConApp\bin\Debug\net7.0\SimpleConApp.dll
+E:\Phase3\Classes\Day-9\SimpleConApp\bin\Debug\net7.0\SimpleConApp.pdb
+E:\Phase3\Classes\Day-9\SimpleConApp\obj\Debug\net7.0\SimpleConApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Phase3\Classes\Day-9\SimpleConApp\obj\Debug\net7.0\SimpleConApp.AssemblyInfoInputs.cache
+E:\Phase3\Classes\Day-9\SimpleConApp\obj\Debug\net7.0\SimpleConApp.AssemblyInfo.cs
+E:\Phase3\Classes\Day-9\SimpleConApp\obj\Debug\net7.0\SimpleConApp.csproj.CoreCompileInputs.cache
+E:\Phase3\Classes\Day-9\SimpleConApp\obj\Debug\net7.0\SimpleConApp.dll
+E:\Phase3\Classes\Day-9\SimpleConApp\obj\Debug\net7.0\refint\SimpleConApp.dll
+E:\Phase3\Classes\Day-9\SimpleConApp\obj\Debug\net7.0\SimpleConApp.pdb
+E:\Phase3\Classes\Day-9\SimpleConApp\obj\Debug\net7.0\SimpleConApp.genruntimeconfig.cache
+E:\Phase3\Classes\Day-9\SimpleConApp\obj\Debug\net7.0\ref\SimpleConApp.dll
